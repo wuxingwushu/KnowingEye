@@ -22,7 +22,7 @@ KnowingEye
 
 > 环境构建：
 
-> 我的使用的Environment文件下载： [百度网盘](https://pan.baidu.com/s/1HptIclC_ttfMcjlLj7RawA?pwd=trrt)
+> 我的使用的Environment文件下载： [百度网盘](https://pan.baidu.com/s/1ctmXmRcgqW1k2MhgBL8s4A?pwd=5ezy)[蓝奏云](https://wwkl.lanzoue.com/itP7I0smlcwb)密码:4fwb
 
 + Tesseract-OCR
 	> [vcpkg](https://github.com/microsoft/vcpkg)
